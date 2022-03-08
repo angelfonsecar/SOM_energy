@@ -48,4 +48,4 @@ The indicators taken into account are:
 15.	Renewable energy consumption (% of total final energy consumption)
 16.	Total greenhouse gas emissions (kt of CO2 equivalent)
 
-The file with the raw data can be found in...
+The file with the raw data can be found in the trainingData.txt file
