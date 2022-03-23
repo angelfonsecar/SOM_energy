@@ -1,8 +1,5 @@
 # SOM_energy
-
-*The purpose of this version is to obtain the data from a .csv file, instead from a tabbed .txt file.*
-
-This is an implementation of a **Self Organizing Map** that pretends to analyze the similitude between some countries in the energetic field.
+This is an implementation of a [**Self Organizing Map**](https://en.wikipedia.org/wiki/Self-organizing_map) that pretends to analyze the similitude between some countries in the energetic field.
 The data was obtained from the [World Bank](https://databank.worldbank.org/createreport).
 
 The list of countries is
@@ -29,9 +26,9 @@ The list of countries is
 21.	Israel
 22.	Italy
 
-Here is the result.
+The program will generate an x,y plot with the results and also a _.csv_ file with the coordinates. Here is one possible the result.
 
-![One possible SOM result](som_result.png)
+![One possible SOM result](som_result.png)(With every execution of the training cell, the BMU of each countri can change, but the general distribution will be the same).
 
 The indicators taken into account are: 
 1.	Access to electricity (% of population)
@@ -51,4 +48,4 @@ The indicators taken into account are:
 15.	Renewable energy consumption (% of total final energy consumption)
 16.	Total greenhouse gas emissions (kt of CO2 equivalent)
 
-The file with the raw data can be found in...
+The file with the raw data can be found in the energy.csv file
