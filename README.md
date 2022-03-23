@@ -1,5 +1,5 @@
 # SOM_energy
-This is an implementation of a **Self Organizing Map** that pretends to analyze the similitude between some countries in the energetic field.
+This is an implementation of a [**Self Organizing Map**](https://en.wikipedia.org/wiki/Self-organizing_map) that pretends to analyze the similitude between some countries in the energetic field.
 The data was obtained from the [World Bank](https://databank.worldbank.org/createreport).
 
 The list of countries is
