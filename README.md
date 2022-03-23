@@ -26,7 +26,7 @@ The list of countries is
 21.	Israel
 22.	Italy
 
-Here is the result.
+The program will generate an x,y plot with the results and also a _.csv_ file with the coordinates. Here is one possible the result.
 
 ![One possible SOM result](som_result.png)
 
