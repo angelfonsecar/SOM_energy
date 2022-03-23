@@ -1,4 +1,7 @@
 # SOM_energy
+
+*The purpose of this version is to obtain the data from a .csv file, instead from a tabbed .txt file.*
+
 This is an implementation of a **Self Organizing Map** that pretends to analyze the similitude between some countries in the energetic field.
 The data was obtained from the [World Bank](https://databank.worldbank.org/createreport).
 
