@@ -28,7 +28,7 @@ The list of countries is
 
 The program will generate an x,y plot with the results and also a _.csv_ file with the coordinates. Here is one possible the result.
 
-![One possible SOM result](som_result.png)(With every execution of the training cell, the BMU of each countri can change, but the general distribution will be the same).
+![One possible SOM result](som_result.png)(With every execution of the training cell, the BMU of each country can change, but the general distribution will be the same).
 
 The indicators taken into account are: 
 1.	Access to electricity (% of population)
